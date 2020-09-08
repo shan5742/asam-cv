@@ -15,7 +15,7 @@ export default function Home() {
         Download as PDF
       </a>
       <img style={{ height: "auto", width: "auto" }} src={CV} alt="cv" />
-      <a href="../../static/asamshan.pdf" donload>
+      <a href="../../static/asamshan.pdf" download>
         Download as PDF
       </a>
     </div>
